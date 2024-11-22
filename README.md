@@ -27,9 +27,9 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 | Aula  |  Tópico                                          | 📂 Link para o arquivo                                                                       | ✅ Concluído |
 |-------|----------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------|
 |  01   | Filtrando os fracos                               | Sem Arquivo (Aula Teórica)                                                               |             ✅         |
-|  02   | Algoritmos e linguagens de programação            | [Aula 02](#)                                                                             |             ✅         |
-|  03   | Como java funciona                                | [Aula 03](#)                                                                             |             ✅         |
-|  04   | Instalando java                                   | [Aula 04](#)                                                                          | <input type="checkbox" disabled>  |
+|  02   | Algoritmos e linguagens de programação            | Sem Arquivo (Aula Teórica)                                                               |             ✅         |
+|  03   | Como java funciona                                | Sem Arquivo (Aula Teórica)                                                               |             ✅         |
+|  04   | Instalando java                                   | Sem Arquivo (Aula Teórica)                                                            | <input type="checkbox" disabled>  |
 |  05   | Meu primeiro programa                             | [Aula 05](#)                                                                          | <input type="checkbox" disabled>  |
 |  06   | Memória volátil                                   | [Aula 06](#)                                                                          | <input type="checkbox" disabled>  |
 |  07   | Variáveis e tipos primitivos                      | [Aula 07](#)                                                                          | <input type="checkbox" disabled>  |
