@@ -31,7 +31,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  03   | Como java funciona                                | Sem Arquivo (Aula Teórica)  |                                                             
 |  04   | Instalando java                                   | Sem Arquivo (Aula Teórica)  |                                                         
 |  05   | Meu primeiro programa                             | [Aula 22-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/22-11-2024)  |                                                              
-|  06   | Memória volátil                                   | [Aula 06](#)                                                                         
+|  06   | Memória volátil                                   | Sem Arquivo (Aula Teórica)                                                                          
 |  07   | Variáveis e tipos primitivos                      | [Aula 07](#)                                                                          
 |  08   | comentários + Exercícios                          | [Aula 08](#)                                                                          
 |  09   | Instalando IDE IntelliJ Idea                      | [Aula 09](#)                                                                          
