@@ -32,7 +32,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  04   | Instalando java                                   | Sem Arquivo (Aula Teórica)  |                                                         
 |  05   | Meu primeiro programa                             | [Aula 22-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/22-11-2024)  |                                                              
 |  06   | Memória volátil                                   | Sem Arquivo (Aula Teórica)                                                                          
-|  07   | Variáveis e tipos primitivos                      | [Aula 07](#)                                                                          
+|  07   | Variáveis e tipos primitivos                      | [Aula 24-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/24-11-2024)                                                                 
 |  08   | comentários + Exercícios                          | [Aula 08](#)                                                                          
 |  09   | Instalando IDE IntelliJ Idea                      | [Aula 09](#)                                                                          
 |  10   | Valores literais + exercícios                     | [Aula 10](#)                                                                         
@@ -77,7 +77,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 ## Como Usar
 
 1. Clique no link da coluna "📂 Link para o arquivo" para acessar os arquivos de cada aula.
-2. Cada pasta contém os arquivos `.java` com os códigos das atividades, além de um arquivo README que explica o que eu aprendi.
+2. Cada pasta contém os arquivos `.java` com os códigos das atividades.
 3. Aulas teóricas não terão links para arquivos, pois não envolvem código
 4. Fique à vontade para estudar.
 <br>
