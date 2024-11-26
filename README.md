@@ -33,7 +33,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  05   | Meu primeiro programa                             | [Aula 22-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/22-11-2024)  |                                                              
 |  06   | Memória volátil                                   | Sem Arquivo (Aula Teórica)                                                                          
 |  07   | Variáveis e tipos primitivos                      | [Aula 24-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/24-11-2024)                                                                 
-|  08   | comentários + Exercícios                          | [Aula 08](#)                                                                          
+|  08   | comentários + Exercícios                          | [Aula 25-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/25-11-2024)                                                                
 |  09   | Instalando IDE IntelliJ Idea                      | [Aula 09](#)                                                                          
 |  10   | Valores literais + exercícios                     | [Aula 10](#)                                                                         
 |  11   | Reutilizando variáveis + Exercícios               | [Aula 11](#)                                                                          
