@@ -1,4 +1,4 @@
-# Armazenar uma Idade
+#  Variável para armazenar uma Idade
 
 Este exercício contém um exemplo simples em Java que declara uma variável para armazenar a idade e exibe essa idade no console.
 
