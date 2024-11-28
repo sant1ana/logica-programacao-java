@@ -36,7 +36,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  08   | comentários + Exercícios                          | [Aula 25-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/25-11-2024)                                                                
 |  09   | Instalando IDE IntelliJ Idea                      | Sem Arquivo (Aula Teórica)                                                                         
 |  10   | Valores literais + exercícios                     | [Aula 26-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/26-11-2024)                                                
-|  11   | Reutilizando variáveis + Exercícios               | [Aula 11](#)                                                                          
+|  11   | Reutilizando variáveis + Exercícios               | [Aula 27-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/27-11-2024)                                                   
 |  12   | String, char e boolean                            | [Aula 12](#)                                                                          
 |  13   | Controle de fluxo if-else pt 01                   | [Aula 13](#)                                                                          
 |  14   | Controle de fluxo if-else pt 02                   | [Aula 14](#)                                                                          
