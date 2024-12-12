@@ -40,7 +40,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  12   | String, char e boolean                            | [Aula 28-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/28-11-2024)                                                                 
 |  13   | Controle de fluxo if-else pt 01                   | [Aula 29-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/29-11-2024)                                                     
 |  14   | Controle de fluxo if-else pt 02                   | [Aula 02-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/02-12-2024)                                                                 
-|  15   | Controle de fluxo if-else pt 03                   | [Aula 15](#)                                                                          
+|  15   | Controle de fluxo if-else pt 03                   | [Aula 11-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/11-12-2024)                                                                 
 |  16   | Controle de fluxo IF - ELSE pt 04                 | [Aula 16](#)                                                                         
 |  17   | Controle de fluxo IF - ELSE pt 05                 | [Aula 17](#)                                                                          
 |  18   | Controle de fluxo IF - ELSE pt 06                 | [Aula 18](#)                                                                          
