@@ -42,7 +42,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  14   | Controle de fluxo if-else pt 02                   | [ 02-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/02-12-2024)                                                                 
 |  15   | Controle de fluxo if-else pt 03                   | [ 11-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/11-12-2024)                                                                 
 |  16   | Controle de fluxo IF - ELSE pt 04                 | [ 12-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/12-12-2024)                                                                 
-|  17   | Controle de fluxo IF - ELSE pt 05                 | [ 02-05-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/02-01-2025)                                                    
+|  17   | Controle de fluxo IF - ELSE pt 05                 | [ 02-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/02-01-2025)                                                    
 |  18   | Controle de fluxo IF - ELSE pt 06                 | [Aula 18](#)                                                                          
 |  19   | Lendo dados do teclado                            | [Aula 19](#)                                                                          
 |  20   | Controle de fluxo IF - ELSE pt 07                 | [Aula 20](#)                                                                          
