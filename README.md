@@ -30,19 +30,19 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  02   | Algoritmos e linguagens de programação            | Sem Arquivo (Aula Teórica)  |                                                             
 |  03   | Como java funciona                                | Sem Arquivo (Aula Teórica)  |                                                             
 |  04   | Instalando java                                   | Sem Arquivo (Aula Teórica)  |                                                         
-|  05   | Meu primeiro programa                             | [Aula 22-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/22-11-2024)  |                                                              
+|  05   | Meu primeiro programa                             | [ 22-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/22-11-2024)  |                                                              
 |  06   | Memória volátil                                   | Sem Arquivo (Aula Teórica)                                                                          
-|  07   | Variáveis e tipos primitivos                      | [Aula 24-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/24-11-2024)                                                                 
-|  08   | comentários + Exercícios                          | [Aula 25-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/25-11-2024)                                                                
+|  07   | Variáveis e tipos primitivos                      | [ 24-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/24-11-2024)                                                                 
+|  08   | comentários + Exercícios                          | [ 25-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/25-11-2024)                                                                
 |  09   | Instalando IDE IntelliJ Idea                      | Sem Arquivo (Aula Teórica)                                                                         
-|  10   | Valores literais + exercícios                     | [Aula 26-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/26-11-2024)                                                
-|  11   | Reutilizando variáveis + Exercícios               | [Aula 27-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/27-11-2024)                                                   
-|  12   | String, char e boolean                            | [Aula 28-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/28-11-2024)                                                                 
-|  13   | Controle de fluxo if-else pt 01                   | [Aula 29-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/29-11-2024)                                                     
-|  14   | Controle de fluxo if-else pt 02                   | [Aula 02-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/02-12-2024)                                                                 
-|  15   | Controle de fluxo if-else pt 03                   | [Aula 11-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/11-12-2024)                                                                 
-|  16   | Controle de fluxo IF - ELSE pt 04                 | [Aula 12-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/12-12-2024)                                                                 
-|  17   | Controle de fluxo IF - ELSE pt 05                 | [Aula 17](#)                                                                          
+|  10   | Valores literais + exercícios                     | [ 26-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/26-11-2024)                                                
+|  11   | Reutilizando variáveis + Exercícios               | [ 27-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/27-11-2024)                                                   
+|  12   | String, char e boolean                            | [ 28-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/28-11-2024)                                                                 
+|  13   | Controle de fluxo if-else pt 01                   | [ 29-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/29-11-2024)                                                     
+|  14   | Controle de fluxo if-else pt 02                   | [ 02-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/02-12-2024)                                                                 
+|  15   | Controle de fluxo if-else pt 03                   | [ 11-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/11-12-2024)                                                                 
+|  16   | Controle de fluxo IF - ELSE pt 04                 | [ 12-12-2024](https://github.com/sant1ana/logica-programacao/tree/main/12-12-2024)                                                                 
+|  17   | Controle de fluxo IF - ELSE pt 05                 | [ 02-05-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/02-01-2025)                                                    
 |  18   | Controle de fluxo IF - ELSE pt 06                 | [Aula 18](#)                                                                          
 |  19   | Lendo dados do teclado                            | [Aula 19](#)                                                                          
 |  20   | Controle de fluxo IF - ELSE pt 07                 | [Aula 20](#)                                                                          
