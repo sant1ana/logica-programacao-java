@@ -1,6 +1,6 @@
 # 🧠 Lógica de Programação Virado no Jiraya 🤯😬
 
-Este repositório contém meus estudos do curso gratuito de **Lógica de Programação Virado no Jiraya**, oferecido pela [DevDojo](https://youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&si=YwHjvLVjPNwYVqNi) no youtube.
+Este repositório contém meus estudos do curso gratuito de **Lógica de Programação Virado no Jiraya**, oferecido pela [DevDojo](https://youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&si=YwHjvLVjPNwYVqNi)  Academy no youtube.
 
 ---
 
@@ -13,7 +13,6 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 ### ✅ Ao final do curso, serei capaz de:
 - ✨ Criar algoritmos simples usando **Java**.
 - 📖 Compreender conceitos comuns a todas as linguagens de programação.
-- 🚀 Avançar mais um passo na minha carreira no desenvolvimento de software.
 
 <br>
 <br>
@@ -24,17 +23,17 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 
 ## 📚 Aulas
 
-| Aula  |  Tópico                                          | 📂 Link para o arquivo                                                                      
+| Aula  |  Tópico                                          | 📂 Link para os exercícios                                                                      
 |-------|----------------------------------------------|------------------------------------------------------------------------------------------|
-|  01   | Filtrando os fracos                               | Sem Arquivo (Aula Teórica) |                                                              
-|  02   | Algoritmos e linguagens de programação            | Sem Arquivo (Aula Teórica)  |                                                             
-|  03   | Como java funciona                                | Sem Arquivo (Aula Teórica)  |                                                             
-|  04   | Instalando java                                   | Sem Arquivo (Aula Teórica)  |                                                         
+|  01   | Filtrando os fracos                               |  (Aula Teórica) |                                                              
+|  02   | Algoritmos e linguagens de programação            |  (Aula Teórica)  |                                                             
+|  03   | Como java funciona                                |  (Aula Teórica)  |                                                             
+|  04   | Instalando java                                   |  (Aula Teórica)  |                                                         
 |  05   | Meu primeiro programa                             | [ 22-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/22-11-2024)  |                                                              
-|  06   | Memória volátil                                   | Sem Arquivo (Aula Teórica)                                                                          
+|  06   | Memória volátil                                   |  (Aula Teórica)                                                                          
 |  07   | Variáveis e tipos primitivos                      | [ 24-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/24-11-2024)                                                                 
 |  08   | comentários + Exercícios                          | [ 25-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/25-11-2024)                                                                
-|  09   | Instalando IDE IntelliJ Idea                      | Sem Arquivo (Aula Teórica)                                                                         
+|  09   | Instalando IDE IntelliJ Idea                      |  (Aula Teórica)                                                                         
 |  10   | Valores literais + exercícios                     | [ 26-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/26-11-2024)                                                
 |  11   | Reutilizando variáveis + Exercícios               | [ 27-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/27-11-2024)                                                   
 |  12   | String, char e boolean                            | [ 28-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/28-11-2024)                                                                 
@@ -75,16 +74,12 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 <br>
 
 ## Como Usar
-
-1. Clique no link da coluna "📂 Link para o arquivo" para acessar os arquivos de cada aula.
+1. Clique no link da coluna "📂 Link para os exercícios" para acessar os arquivos de cada aula.
 2. Cada pasta contém os arquivos `.java` com os códigos das atividades.
-3. Aulas teóricas não terão links para arquivos, pois não envolvem código
-4. Fique à vontade para estudar.
-<br>
+3. Aulas teóricas não terão links para arquivos, pois não envolvem código.
 <br>
 
 ## 🎯 Objetivo
-
 Este repositório tem como objetivo:
 - 📂 Documentar minha jornada de aprendizado em programação.
 - 📖 Servir como referência futura para meus estudos em **Java**.
