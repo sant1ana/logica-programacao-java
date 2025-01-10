@@ -25,15 +25,15 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 
 | Aula  |  Tópico                                          | 📂 Link para os exercícios                                                                      
 |-------|----------------------------------------------|------------------------------------------------------------------------------------------|
-|  01   | Filtrando os fracos                               |  (Aula Teórica) |                                                              
-|  02   | Algoritmos e linguagens de programação            |  (Aula Teórica)  |                                                             
-|  03   | Como java funciona                                |  (Aula Teórica)  |                                                             
-|  04   | Instalando java                                   |  (Aula Teórica)  |                                                         
+|  01   | Filtrando os fracos                               |  (Teórica) |                                                              
+|  02   | Algoritmos e linguagens de programação            |  (Teórica)  |                                                             
+|  03   | Como java funciona                                |  (Teórica)  |                                                             
+|  04   | Instalando java                                   |  (Teórica)  |                                                         
 |  05   | Meu primeiro programa                             | [ 22-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/22-11-2024)  |                                                              
-|  06   | Memória volátil                                   |  (Aula Teórica)                                                                          
+|  06   | Memória volátil                                   |  (Teórica)  |                                                                         
 |  07   | Variáveis e tipos primitivos                      | [ 24-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/24-11-2024)                                                                 
 |  08   | comentários + Exercícios                          | [ 25-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/25-11-2024)                                                                
-|  09   | Instalando IDE IntelliJ Idea                      |  (Aula Teórica)                                                                         
+|  09   | Instalando IDE IntelliJ Idea                      |  (Teórica)  |                                                                        
 |  10   | Valores literais + exercícios                     | [ 26-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/26-11-2024)                                                
 |  11   | Reutilizando variáveis + Exercícios               | [ 27-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/27-11-2024)                                                   
 |  12   | String, char e boolean                            | [ 28-11-2024](https://github.com/sant1ana/logica-programacao/tree/main/28-11-2024)                                                                 
@@ -44,10 +44,10 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  17   | Controle de fluxo IF - ELSE pt 05                 | [ 02-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/02-01-2025)                                                    
 |  18   | Controle de fluxo IF - ELSE pt 06                 | [03-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/03-01-2025)                                                                 
 |  19   | Lendo dados do teclado                            | [03-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/03-01-2025)                                                                 
-|  20   | Controle de fluxo IF - ELSE pt 07                 | [Aula 20](#)                                                                          
+|  20   | Controle de fluxo IF - ELSE pt 07                 | (Teórica) |                                                                          
 |  21   | Controle de fluxo IF - ELSE pt 08                 | [07-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/07-01-2025)                                                                 
 |  22   | Controle de fluxo IF - ELSE pt 09                 | [08-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/08-01-2025)                                                                 
-|  23   | Controle de fluxo IF - ELSE pt 10                 | [Aula 23](#)                                                                          
+|  23   | Controle de fluxo IF - ELSE pt 10                 | [09-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/09-01-2025)                                                                
 |  24   | Controle de fluxo IF - ELSE pt 11                 | [Aula 24](#)                                                                          
 |  25   | Estruturando o código em pacotes                  | [Aula 25](#)                                                                          
 |  26   | Switch case pt 01                                 | [Aula 26](#)                                                                          
