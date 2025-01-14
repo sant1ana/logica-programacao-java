@@ -48,7 +48,7 @@ Este curso foi projetado para me ajudar a dar o primeiro passo no desenvolviment
 |  21   | Controle de fluxo IF - ELSE pt 08                 | [07-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/07-01-2025)                                                                 
 |  22   | Controle de fluxo IF - ELSE pt 09                 | [08-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/08-01-2025)                                                                 
 |  23   | Controle de fluxo IF - ELSE pt 10                 | [09-01-2025](https://github.com/sant1ana/logica-programacao-java/tree/main/09-01-2025)                                                                
-|  24   | Controle de fluxo IF - ELSE pt 11                 | [Aula 24](#)                                                                          
+|  24   | Controle de fluxo IF - ELSE pt 11                 | [13-01-2025](https://github.com/sant1ana/logica-programacao-java/commit/4cfc7d09755c3c99d2fac915c9fad8861bff65f5)                             
 |  25   | Estruturando o código em pacotes                  | [Aula 25](#)                                                                          
 |  26   | Switch case pt 01                                 | [Aula 26](#)                                                                          
 |  27   | Switch case pt 02.mp4                             | [Aula 27](#)                                                                         
